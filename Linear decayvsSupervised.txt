@@ -1,0 +1,33 @@
+-------------------------------------------
+Descriptive statistics Linear decay
+
+Number of observations: 60
+Minimum: 3
+Maximum: 26
+Mean: 11.366666666666667
+Variance: 19.659887005649715
+Skewness: 1.1982476267813988
+Kurtosis: 1.8913588697229082
+-------------------------------------------
+-------------------------------------------
+Descriptive statistics Supervised
+
+Number of observations: 60
+Minimum: 5
+Maximum: 81
+Mean: 25.183333333333334
+Variance: 254.52514124293782
+Skewness: 1.4567321234082349
+Kurtosis: 1.9004195399903905
+-------------------------------------------
+-------------------------------------------
+Shapiro-Wilk test for normality turned out significant.
+Assumption for normality violated, one should not continue this statistic analysis
+Proceeding anyways
+-------------------------------------------
+-------------------------------------------
+Paired sample t-test
+Comparing Linear decay against Supervised
+T-statistic: -6.110515092694292
+p-value: 8.47084377471422e-08
+Statistic significant!

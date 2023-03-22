@@ -1,0 +1,33 @@
+-------------------------------------------
+Descriptive statistics Exponential decay
+
+Number of observations: 60
+Minimum: 3
+Maximum: 44
+Mean: 12.166666666666666
+Variance: 78.17514124293785
+Skewness: 2.202738216062192
+Kurtosis: 4.550445147322768
+-------------------------------------------
+-------------------------------------------
+Descriptive statistics Linear decay
+
+Number of observations: 60
+Minimum: 3
+Maximum: 26
+Mean: 11.366666666666667
+Variance: 19.659887005649715
+Skewness: 1.1982476267813988
+Kurtosis: 1.8913588697229082
+-------------------------------------------
+-------------------------------------------
+Shapiro-Wilk test for normality turned out significant.
+Assumption for normality violated, one should not continue this statistic analysis
+Proceeding anyways
+-------------------------------------------
+-------------------------------------------
+Paired sample t-test
+Comparing Exponential decay against Linear decay
+T-statistic: 0.652607603358404
+p-value: 0.5165440854651957
+Statistic not significant
